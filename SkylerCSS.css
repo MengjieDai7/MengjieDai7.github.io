@@ -1,16 +1,16 @@
 
-
+/* W3schools said to that constrasting fonts can look good e.g. serif and sans serif style so I picked fonts that meshed well 
+together */
 
 body {background-color: Seashell; margin-top: 20px, margin-bottom: 50px}
+
+/* The headings are formated the same but have degreasing font size */
 
 h1 { letter-spacing: 2px;color: DimGrey; font-family: Georgia, serif;
 margin-left: 15px;}
 
-/* W3schools said to that constrasting fonts can look good e.g. serif and sans serif style so I picked fonts that meshed well 
-together */
-
 h2 { letter-spacing: 2px; color: DimGrey; font-family: Georgia, serif;
-margin-left: 15px;}
+margin-left: 15px; }
 
 h3 { letter-spacing: 2px;color: DimGrey; font-family: Georgia, serif;
 margin-left: 15px; font-size: 20px;}
@@ -21,14 +21,16 @@ padding-left: 20px; font-size: 15px;}
 p{ line-height: 1.5; font-family: Noto Sans, sans-serif;
 margin-left: 15px;background-color: Seashell;}
 
+/* I used W3schools for inspiration and played around with the link options. I picked hover and various font characteristics to help the link 
+stand out a bit more. The a selects for the links*/
 a{letter-spacing: 2px;color: DimGrey; font-family: Georgia, serif; font-size: 15px;}
 a:hover{color:#cc7a00}
 
 /* I saw on youtube this person do borders so I thought I would add borders to my picture and the person also 
 displayed how to get pictures and text aligned link: https://www.youtube.com/watch?v=lgX38fNbxmw&ab_channel=Codehal */
-
 .index{text-align:center;}
 .intro{text-align:center; background-color:#ffeb99; margin:60px; padding:25px; border: 5px solid #ffffb3; border radius: 30px}
+
 
 .bio{margin: 60px; padding:100;}
 #text2{margin: 60px;}
@@ -41,9 +43,11 @@ displayed how to get pictures and text aligned link: https://www.youtube.com/wat
 
 .Work{text-align:left;}
 
+/* External link CSS requirements */
 .elink a{padding-left:20px; padding-right:20px; color:black;}
 .elink{margin-bottom:50px;}
 
+/* I used W3schools for inspiration and played around with the table options. I removed/added some columns to fit the need of my data*/
 #treatrank{font-size: 14px;}
 table, th, td{border-collapse: collapse; border:1.5px solid;}
 table {margin-left:80px; width:85%;}
