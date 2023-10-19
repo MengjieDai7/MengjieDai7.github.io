@@ -29,13 +29,13 @@ a:hover{color:#cc7a00}
 /* I saw on youtube this person do borders so I thought I would add borders to my picture and the person also 
 displayed how to get pictures and text aligned link: https://www.youtube.com/watch?v=lgX38fNbxmw&ab_channel=Codehal */
 .index{text-align:center;}
-.intro{text-align:center; background-color:#ffeb99; margin:60px; padding:25px; border: 5px solid #ffffb3; border radius: 30px;}
+.intro{text-align:center; background-color:#ffeb99; margin:60px; padding:25px; border:5px solid #ffffb3; border radius: 30px;}
 
 /* Formating for the introductory bio of Skyler. I wanted there to be some space and added in margins and padding */
 .bio{margin: 60px; padding:100px;}
 
 /* I used a class sector should I could format a block with a border and background colour around my three photos */
-.photo{text-align:center; background-color:#ffeb99; margin:60px; padding:25px; border: 5px solid #ffffb3; border radius: 30px;}
+.photo{text-align:center; background-color:#ffeb99; margin:60px; padding:25px; border:5px solid #ffffb3; border radius: 30px;}
 
 /* I used individual sectors so I could put space between the photos*/
 #img2{margin:22px}
