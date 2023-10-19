@@ -6,20 +6,20 @@ body {background-color: Seashell; margin-top: 20px; margin-bottom: 50px}
 
 /* The headings are formated the same but have degreasing font size */
 
-h1 { letter-spacing: 2px;color: DimGrey; font-family: Georgia, serif;
+h1 {font-size:30px; font-weight:700; letter-spacing: 2px;color: DimGrey; font-family: Georgia, serif;
 margin-left: 15px;}
 
-h2 { letter-spacing: 2px; color: DimGrey; font-family: Georgia, serif;
+h2 {font-size:25px; font-weight:600; letter-spacing: 2px; color: DimGrey; font-family: Georgia, serif;
 margin-left: 15px; }
 
 h3 { letter-spacing: 2px;color: DimGrey; font-family: Georgia, serif;
-margin-left: 15px; font-size: 20px;}
+margin-left: 15px; font-size:20px; font-weight:550;}
 
 h4 {letter-spacing: 2px;color: DimGrey; font-family: Georgia, serif;
-padding-left: 20px; font-size: 15px;}
+padding-left: 20px; font-size:15px; font-weight:500;}
 
 p{ line-height: 1.5; font-family: Noto Sans, sans-serif;
-margin-left: 15px;background-color: Seashell;}
+margin-left: 15px;background-color: Seashell; font-size:13px; font-weight:400;}
 
 /* I used W3schools for inspiration and played around with the link options. I picked hover and various font characteristics to help the link 
 stand out a bit more. The a selects for the links*/
